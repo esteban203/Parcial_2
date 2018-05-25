@@ -1,11 +1,11 @@
 {
   "name": "repaso-parcial",
   "version": "1.0.0",
-  "description": "holli",
+  "description": "holi",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "./node_modules/.bin/nodeom index.js"
+    "start": "nodemon index.js"
   },
   "author": "",
   "license": "ISC",
@@ -15,5 +15,14 @@
     "handlebars": "^4.0.11",
     "node": "^10.2.0",
     "nodemon": "^1.17.5"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/esteban203/repasoParcial2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/esteban203/repasoParcial2/issues"
+  },
+  "homepage": "https://github.com/esteban203/repasoParcial2#readme"
 }
